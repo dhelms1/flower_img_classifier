@@ -1,6 +1,6 @@
 # Image Classifier Project
 
-<img src="/image/flower_img.jpeg" width="143">
+<img src="/image/flower_img.jpeg" width="300">
 
 This project comes from the Udacity Intro to Machine Learning with PyTorch NanoDegree. It is broken up into two parts: the first being to build an image classifier using PyTorch in Jupyter Notebooks, and the second being turning this classifier into an application that is run from the command line with arguements that can determine the build and structure of the network.
 
